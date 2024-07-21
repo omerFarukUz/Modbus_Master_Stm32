@@ -1,0 +1,2 @@
+../Core/myDriver/Src/uart_qrbcom.c:21:6:UARTx_CellCommInit	1
+../Core/myDriver/Src/uart_qrbcom.c:44:5:UARTx_Printf	1

@@ -1,0 +1,6 @@
+../Core/myDriver/Src/RingBuffer.c:12:6:RingBuffer_Init	1
+../Core/myDriver/Src/RingBuffer.c:22:6:RingBuffer_Is_Empty	1
+../Core/myDriver/Src/RingBuffer.c:28:6:RingBuffer_Is_Fully	2
+../Core/myDriver/Src/RingBuffer.c:37:6:RingBuffer_Add	3
+../Core/myDriver/Src/RingBuffer.c:55:5:RingBuffer_Subtract	3
+../Core/myDriver/Src/RingBuffer.c:73:6:Ring_Buffer_Clear	1

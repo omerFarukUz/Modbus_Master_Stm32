@@ -1,0 +1,4 @@
+../Core/myDriver/Timer_Ex/Src/timer_ex.c:6:6:Tick_Timer_Init	1
+../Core/myDriver/Timer_Ex/Src/timer_ex.c:14:6:Tick_Timer_Set_Time	1
+../Core/myDriver/Timer_Ex/Src/timer_ex.c:23:6:Tick_Timer_Stop_Time	1
+../Core/myDriver/Timer_Ex/Src/timer_ex.c:30:6:Tick_Timer_Check_Elapsed_Time	5

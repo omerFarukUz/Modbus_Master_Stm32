@@ -1,0 +1,11 @@
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:19:6:Modbus_Master_Control	42
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:362:9:Modbus_Master_Write	2
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:382:6:Modbus_Read_Coil_Status	3
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:398:6:Modbus_Read_Input_Status	3
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:414:6:Modbus_Read_Holding_Registers	3
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:429:6:Modbus_Read_Input_Registers	3
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:444:6:Modbus_Write_Single_Coil	3
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:460:6:Modbus_Write_Single_Register	3
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:476:6:Modbus_Write_Multiple_Coils	3
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:494:6:Modbus_Write_Multiple_Registers	4
+../Core/myDriver/modbus_ex/Src/modbus_ex.c:516:6:areelementsEqual	3

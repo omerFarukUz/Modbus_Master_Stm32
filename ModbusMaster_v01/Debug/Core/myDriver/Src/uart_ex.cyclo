@@ -1,0 +1,3 @@
+../Core/myDriver/Src/uart_ex.c:10:6:UARTx_Init	2
+../Core/myDriver/Src/uart_ex.c:21:6:UARTx_WriteSingleChar	4
+../Core/myDriver/Src/uart_ex.c:37:6:UARTx_WriteString	4

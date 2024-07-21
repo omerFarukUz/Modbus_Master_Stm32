@@ -1,0 +1,2 @@
+../Core/myDriver/modbus_ex/Src/modbus_crc16.c:5:10:crc16_calculator	24	static
+../Core/myDriver/modbus_ex/Src/modbus_crc16.c:89:10:crc16_calculateWithLookupTable	24	static
